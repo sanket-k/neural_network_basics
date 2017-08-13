@@ -1,1 +1,1 @@
-# nueral_network
+# neural_network_basics
